@@ -7,7 +7,7 @@
  ## Other Header
  
  Ceylon is really cool!"
-module junon.population.human "1.0.0" {
+module junon.population "1.0.0" {
 	shared import java.base "7";
 	// import other modules here
 	

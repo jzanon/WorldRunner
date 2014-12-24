@@ -1,1 +1,1 @@
-shared package junon.population.human;
+package junon.population.human;
