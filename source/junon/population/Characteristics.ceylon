@@ -25,6 +25,6 @@ shared abstract class Characteristics() {
 		}
 	}
 	
-	"String representation of the board"
+	"String representation of the characteristics"
 	shared actual String string => "Energy(``currentLevelOfEnergy``/``levelMaxOfEnergy``) | Age(``nbOfTurn``)";
 }
